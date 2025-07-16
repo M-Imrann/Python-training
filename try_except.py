@@ -79,7 +79,7 @@ def main():
         print("Error.", e)
 
     finally:
-        print("program runs")
+        print("program runs.")
 
 
 if __name__ == "__main__":
